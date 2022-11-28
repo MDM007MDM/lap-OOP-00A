@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Documents\GitHub\lap-OOP-00A\lap-OOP-00A\lap-OOP-00A\bin\Debug\net6.0\lap-OOP-00A.exe
+C:\Users\Lenovo\Documents\GitHub\lap-OOP-00A\lap-OOP-00A\lap-OOP-00A\bin\Debug\net6.0\lap-OOP-00A.deps.json
+C:\Users\Lenovo\Documents\GitHub\lap-OOP-00A\lap-OOP-00A\lap-OOP-00A\bin\Debug\net6.0\lap-OOP-00A.runtimeconfig.json
+C:\Users\Lenovo\Documents\GitHub\lap-OOP-00A\lap-OOP-00A\lap-OOP-00A\bin\Debug\net6.0\lap-OOP-00A.dll
+C:\Users\Lenovo\Documents\GitHub\lap-OOP-00A\lap-OOP-00A\lap-OOP-00A\bin\Debug\net6.0\lap-OOP-00A.pdb
+C:\Users\Lenovo\Documents\GitHub\lap-OOP-00A\lap-OOP-00A\lap-OOP-00A\obj\Debug\net6.0\lap-OOP-00A.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\lap-OOP-00A\lap-OOP-00A\lap-OOP-00A\obj\Debug\net6.0\lap-OOP-00A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\GitHub\lap-OOP-00A\lap-OOP-00A\lap-OOP-00A\obj\Debug\net6.0\lap-OOP-00A.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\GitHub\lap-OOP-00A\lap-OOP-00A\lap-OOP-00A\obj\Debug\net6.0\lap-OOP-00A.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\GitHub\lap-OOP-00A\lap-OOP-00A\lap-OOP-00A\obj\Debug\net6.0\lap-OOP-00A.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\GitHub\lap-OOP-00A\lap-OOP-00A\lap-OOP-00A\obj\Debug\net6.0\lap-OOP-00A.dll
+C:\Users\Lenovo\Documents\GitHub\lap-OOP-00A\lap-OOP-00A\lap-OOP-00A\obj\Debug\net6.0\refint\lap-OOP-00A.dll
+C:\Users\Lenovo\Documents\GitHub\lap-OOP-00A\lap-OOP-00A\lap-OOP-00A\obj\Debug\net6.0\lap-OOP-00A.pdb
+C:\Users\Lenovo\Documents\GitHub\lap-OOP-00A\lap-OOP-00A\lap-OOP-00A\obj\Debug\net6.0\lap-OOP-00A.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\GitHub\lap-OOP-00A\lap-OOP-00A\lap-OOP-00A\obj\Debug\net6.0\ref\lap-OOP-00A.dll
